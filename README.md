@@ -195,3 +195,8 @@ lastTime = millis();
 </pre>
 
 <h3>Hasil</h3>
+https://github.com/naufalzakky/Nomor3/blob/main/1TS.jpg
+
+https://github.com/naufalzakky/Nomor3/blob/main/2TS.jpg
+
+https://github.com/naufalzakky/Nomor3/blob/main/3TS.jpg
